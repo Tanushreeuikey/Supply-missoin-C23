@@ -27,7 +27,7 @@ function setup()
 	helicopterSprite.scale=0.6
 	
 
-	groundSprite=createSprite(width/2, height-30, width,10);
+	groundSprite=createSprite(width/2, height-50, width,10);
 	groundSprite.shapeColor=color(153,76,0)
 
 
